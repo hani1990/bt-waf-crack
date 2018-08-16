@@ -4,7 +4,7 @@ export PATH
 pluginPath=/www/server/panel/plugin/btwaf
 dataPath=/www/server/panel/data
 install_tmp='/tmp/bt_install.pl'
-
+download_Url='http://download.bt.cn'
 
 Install_btwaf()
 {
